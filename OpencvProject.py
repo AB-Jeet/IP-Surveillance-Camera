@@ -15,7 +15,7 @@ from random import randrange
 #import imutils
 
 # URL of camera for capturing video
-#url = "http://192.168.0.134:8080//video"  #url of camera
+#url = "http://...................................//video"  #url of camera
 cap = cv2.VideoCapture(0)  # For using PC camera
 
 # Capturing Video
